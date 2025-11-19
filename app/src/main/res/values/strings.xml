@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">One Sec</string>
+    <string name="accessibility_service_description">Monitors app launches for the 1 Sec app.</string>
+</resources>
